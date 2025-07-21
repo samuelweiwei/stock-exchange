@@ -1,0 +1,6 @@
+replace null.Int64 int64
+replace null.Float float64
+replace null.Value[order.FollowOrderStatus] order.FollowOrderStatus
+replace null.Value[order.FollowOrderStockStatus] order.FollowOrderStockStatus
+replace null.String string
+replace NullDecimal string

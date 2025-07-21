@@ -1,0 +1,3 @@
+[server]2024-11-15 19:00:13.644	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-15 19:11:41.720	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-15 19:53:50.719	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

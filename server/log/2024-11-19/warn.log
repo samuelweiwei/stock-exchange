@@ -1,0 +1,3 @@
+[server]2024-11-19 20:55:02.656	[33mwarn[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:47	Symbol type is nil	{"symbol": "GME"}
+[server]2024-11-19 20:55:02.657	[33mwarn[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:47	Symbol type is nil	{"symbol": "TSLA"}
+[server]2024-11-19 20:55:02.657	[33mwarn[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:47	Symbol type is nil	{"symbol": "AAPL"}

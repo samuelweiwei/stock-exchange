@@ -1,0 +1,85 @@
+[server]2024-11-17 15:25:44.736	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 15:25:44.736	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 15:26:24.897	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 15:26:24.907	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 15:26:24.981	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 15:26:26.797	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 15:26:26.797	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 15:28:16.535	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:258	Attempting WebSocket connection
+[server]2024-11-17 15:28:16.536	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:264	WebSocket connection attempt from origin:	{"origin": "https://wstool.js.org"}
+[server]2024-11-17 15:28:16.536	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:275	WebSocket connection established successfully
+[server]2024-11-17 15:31:49.820	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:258	Attempting WebSocket connection
+[server]2024-11-17 15:31:49.821	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:264	WebSocket connection attempt from origin:	{"origin": "https://wstool.js.org"}
+[server]2024-11-17 15:31:49.821	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:275	WebSocket connection established successfully
+[server]2024-11-17 15:33:40.105	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:258	Attempting WebSocket connection
+[server]2024-11-17 15:33:40.106	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:264	WebSocket connection attempt from origin:	{"origin": "https://wstool.js.org"}
+[server]2024-11-17 15:33:40.106	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:275	WebSocket connection established successfully
+[server]2024-11-17 15:33:52.584	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:258	Attempting WebSocket connection
+[server]2024-11-17 15:33:52.584	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:264	WebSocket connection attempt from origin:	{"origin": "https://wstool.js.org"}
+[server]2024-11-17 15:33:52.584	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:275	WebSocket connection established successfully
+[server]2024-11-17 15:39:39.243	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 15:39:39.245	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 15:40:19.256	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 15:40:19.264	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 15:40:19.334	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 15:40:21.107	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 15:40:21.107	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 16:47:09.470	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 16:47:09.473	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 16:47:49.500	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 16:47:49.509	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 16:47:49.578	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 16:47:51.298	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 16:47:51.298	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 17:19:29.214	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 17:19:29.215	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 17:20:09.223	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 17:20:09.230	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 17:20:09.303	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 17:20:11.103	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 17:20:11.103	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 17:32:05.330	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 17:32:05.331	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 17:32:45.345	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 17:32:45.354	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 17:32:45.445	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 17:32:47.257	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 17:32:47.258	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 17:33:24.580	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:173	Request body:	{"body": "{\n    \"page\": 1,\n    \"pageSize\": 10,\n    \"orderBy\": \"marketCap\",\n    \"order\": \"desc\"\n}"}
+[server]2024-11-17 17:52:04.396	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 17:52:04.397	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 17:52:44.407	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 17:52:44.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 17:52:44.489	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 17:52:46.284	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 17:52:46.284	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 18:12:58.483	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 18:12:58.485	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 18:13:38.500	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 18:13:38.510	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 18:13:38.578	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 18:13:40.272	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 18:13:40.273	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 18:13:57.837	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:244	Received new subscription request	{"req": "symbols", "symbols": ["AAPL"]}
+[server]2024-11-17 18:14:55.479	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:257	WebSocket connection closing
+[server]2024-11-17 18:17:26.574	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 18:17:26.574	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 18:18:06.593	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 18:18:06.603	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 18:18:06.674	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 18:18:08.455	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 18:18:08.468	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 21:36:19.522	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 21:36:19.534	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 21:36:19.916	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 21:36:21.253	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 21:36:21.254	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 21:36:30.070	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 21:36:30.070	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-17 22:12:13.481	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-17 22:12:13.483	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-17 22:12:53.497	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-17 22:12:53.513	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-17 22:12:53.585	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-17 22:12:55.971	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-17 22:12:55.971	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}

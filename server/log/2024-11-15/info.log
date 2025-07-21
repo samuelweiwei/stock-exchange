@@ -1,0 +1,53 @@
+[server]2024-11-15 18:59:46.970	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-15 18:59:49.617	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-15 18:59:49.618	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-15 18:59:56.213	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-15 18:59:56.213	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-15 19:01:26.495	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-15 19:01:29.853	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-15 19:01:29.854	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-15 19:01:32.846	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-15 19:01:32.846	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-15 19:53:03.552	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-15 19:53:03.567	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-15 19:53:03.797	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-15 19:53:05.994	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-15 19:53:05.994	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:18	Starting Polygon.io websocket initialization...
+[server]2024-11-15 19:53:08.414	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:08.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3100.39, "timestamp": "[server]2024-11-15 19:53:07.643"}
+[server]2024-11-15 19:53:08.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.24, "timestamp": "[server]2024-11-15 19:53:08.163"}
+[server]2024-11-15 19:53:08.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89649.8, "timestamp": "[server]2024-11-15 19:53:07.751"}
+[server]2024-11-15 19:53:12.875	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-15 19:53:12.876	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-15 19:53:13.414	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:13.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3100.4, "timestamp": "[server]2024-11-15 19:53:11.691"}
+[server]2024-11-15 19:53:13.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.24, "timestamp": "[server]2024-11-15 19:53:11.573"}
+[server]2024-11-15 19:53:13.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89649.82, "timestamp": "[server]2024-11-15 19:53:11.551"}
+[server]2024-11-15 19:53:18.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:18.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.4, "timestamp": "[server]2024-11-15 19:53:15.448"}
+[server]2024-11-15 19:53:18.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.24, "timestamp": "[server]2024-11-15 19:53:15.603"}
+[server]2024-11-15 19:53:18.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89649.81, "timestamp": "[server]2024-11-15 19:53:15.325"}
+[server]2024-11-15 19:53:23.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:23.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.21, "timestamp": "[server]2024-11-15 19:53:18.559"}
+[server]2024-11-15 19:53:23.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89636.36, "timestamp": "[server]2024-11-15 19:53:18.656"}
+[server]2024-11-15 19:53:23.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3100.85, "timestamp": "[server]2024-11-15 19:53:18.667"}
+[server]2024-11-15 19:53:28.484	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:28.486	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.24, "timestamp": "[server]2024-11-15 19:53:26.918"}
+[server]2024-11-15 19:53:28.486	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89650.45, "timestamp": "[server]2024-11-15 19:53:27.009"}
+[server]2024-11-15 19:53:28.486	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.38, "timestamp": "[server]2024-11-15 19:53:27.129"}
+[server]2024-11-15 19:53:33.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:33.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.27, "timestamp": "[server]2024-11-15 19:53:29.108"}
+[server]2024-11-15 19:53:33.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89660, "timestamp": "[server]2024-11-15 19:53:29.289"}
+[server]2024-11-15 19:53:33.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.38, "timestamp": "[server]2024-11-15 19:53:29.064"}
+[server]2024-11-15 19:53:38.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:38.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.5, "timestamp": "[server]2024-11-15 19:53:31.496"}
+[server]2024-11-15 19:53:38.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.3, "timestamp": "[server]2024-11-15 19:53:31.749"}
+[server]2024-11-15 19:53:38.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89663.97, "timestamp": "[server]2024-11-15 19:53:31.781"}
+[server]2024-11-15 19:53:43.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:43.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89666.39, "timestamp": "[server]2024-11-15 19:53:31.882"}
+[server]2024-11-15 19:53:43.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.5, "timestamp": "[server]2024-11-15 19:53:31.496"}
+[server]2024-11-15 19:53:43.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.3, "timestamp": "[server]2024-11-15 19:53:31.749"}
+[server]2024-11-15 19:53:48.415	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:76	Current prices:
+[server]2024-11-15 19:53:48.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "ETHUSDT", "price": 3101.5, "timestamp": "[server]2024-11-15 19:53:31.496"}
+[server]2024-11-15 19:53:48.416	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "SOLUSDT", "price": 213.3, "timestamp": "[server]2024-11-15 19:53:31.749"}
+[server]2024-11-15 19:53:48.417	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:78	Price info	{"symbol": "BTCUSDT", "price": 89666.66, "timestamp": "[server]2024-11-15 19:53:31.882"}

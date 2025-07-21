@@ -1,0 +1,15 @@
+[server]2024-11-27 00:00:05.630	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbols.go:128	解析日交易数据失败	{"error": "json: cannot unmarshal number into Go value of type struct { Results map[string][]struct { V float64 \"json:\\\"v\\\"\"; C float64 \"json:\\\"c\\\"\"; O float64 \"json:\\\"o\\\"\" } \"json:\\\"results\\\"\" }"}
+[server]2024-11-27 00:00:07.249	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbols.go:128	解析日交易数据失败	{"error": "json: cannot unmarshal number into Go value of type struct { Results map[string][]struct { V float64 \"json:\\\"v\\\"\"; C float64 \"json:\\\"c\\\"\"; O float64 \"json:\\\"o\\\"\" } \"json:\\\"results\\\"\" }"}
+[server]2024-11-27 00:01:51.774	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:01:51.775	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:06:51.233	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:06:51.234	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:11:51.238	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:11:51.240	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:16:51.242	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:16:51.242	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:21:51.234	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:21:51.235	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:26:51.258	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:45	获取symbols失败	{"error": "invalid connection"}
+[server]2024-11-27 00:26:51.260	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/timer.go:91	更新K线数据失败	{"error": "invalid connection"}
+[server]2024-11-27 00:28:12.905	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

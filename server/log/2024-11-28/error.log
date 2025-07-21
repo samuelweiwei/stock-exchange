@@ -1,0 +1,15 @@
+[server]2024-11-28 13:38:55.167	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 22:52:31.755	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:131	请求K线数据失败	{"error": "Get \"https://api.polygon.io/v2/aggs/ticker/X:BTCUSD,X:ETHUSD/range/4/hour/1732719151495/1732805551495?apiKey=9r03QW42EDKNVxcK2DEQYw2Sp7OVbAHy&limit=50000\": unexpected EOF"}
+[server]2024-11-28 22:57:01.067	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:131	请求K线数据失败	{"error": "Get \"https://api.polygon.io/v2/aggs/ticker/X:BTCUSD,X:ETHUSD/range/4/hour/1732719391068/1732805791068?apiKey=9r03QW42EDKNVxcK2DEQYw2Sp7OVbAHy&limit=50000\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+[server]2024-11-28 22:57:12.112	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:131	请求K线数据失败	{"error": "Get \"https://api.polygon.io/v2/aggs/ticker/X:BTCUSD,X:ETHUSD/range/1/day/1732201021070/1732805821070?apiKey=9r03QW42EDKNVxcK2DEQYw2Sp7OVbAHy&limit=50000\": read tcp 10.14.0.2:54392->198.44.194.35:443: read: can't assign requested address"}
+[server]2024-11-28 23:05:34.123	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 23:27:25.220	error	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/userfund/withdraw_records.go:255	获取用户账户失败!	{"error": "record not found"}
+[server]2024-11-28 23:28:22.963	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 23:28:47.914	error	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/userfund/withdraw_records.go:256	获取用户账户失败!	{"error": "record not found"}
+[server]2024-11-28 23:30:00.973	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 23:30:24.449	error	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/userfund/withdraw_records.go:258	获取用户账户失败!	{"error": "record not found"}
+[server]2024-11-28 23:32:04.573	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 23:32:27.713	error	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/userfund/withdraw_records.go:258	获取用户账户失败!	{"error": "record not found"}
+[server]2024-11-28 23:33:12.998	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-28 23:33:45.609	error	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/userfund/withdraw_records.go:258	获取用户账户失败!	{"error": "record not found"}
+[server]2024-11-28 23:56:15.345	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

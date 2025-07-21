@@ -1,0 +1,58 @@
+[server]2024-12-27 16:54:24.092	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 16:54:26.427	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 16:54:32.416	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 16:54:51.492	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 16:54:51.492	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:25:02.526	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:25:03.618	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:25:04.925	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:25:12.266	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:25:12.270	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:28:16.212	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:28:17.367	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:28:17.830	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:28:22.354	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:28:22.355	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:29:32.663	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:29:39.544	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:29:41.702	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:29:48.699	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:29:48.700	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:35:47.975	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:35:48.452	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:35:48.989	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:35:56.981	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:35:56.981	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:37:04.867	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:37:05.383	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:37:06.220	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:37:13.271	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:37:13.271	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:38:17.510	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:38:18.632	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:38:19.515	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:38:23.642	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:38:23.643	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:41:34.771	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 17:41:35.232	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 17:41:36.255	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 17:41:44.906	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 17:41:44.907	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 17:42:30.175	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:489	Request info	{"method": "POST", "content-type": "application/json"}
+[server]2024-12-27 17:42:30.175	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:495	Raw request body	{"body": "{\n    \"symbol\": \"TSLA\",\n    \"type\": 0\n}"}
+[server]2024-12-27 17:42:30.176	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:527	ValidateSymbol request	{"symbol": "TSLA", "type": 0}
+[server]2024-12-27 17:42:30.176	info	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:1434	Validating symbol	{"url": "https://api.polygon.io/v3/reference/tickers/TSLA?apiKey=2CvL70RAtR78f1B81odD8g0vjDzIWEVl", "originalSymbol": "TSLA", "tickerForAPI": "TSLA"}
+[server]2024-12-27 17:43:57.634	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:489	Request info	{"method": "POST", "content-type": "application/json"}
+[server]2024-12-27 17:43:57.635	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:495	Raw request body	{"body": "{\n    \"symbol\": \"AMZN\",\n    \"type\": 0\n}"}
+[server]2024-12-27 17:43:57.635	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:527	ValidateSymbol request	{"symbol": "AMZN", "type": 0}
+[server]2024-12-27 17:43:57.635	info	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:1434	Validating symbol	{"url": "https://api.polygon.io/v3/reference/tickers/AMZN?apiKey=2CvL70RAtR78f1B81odD8g0vjDzIWEVl", "originalSymbol": "AMZN", "tickerForAPI": "AMZN"}
+[server]2024-12-27 18:03:19.218	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:489	Request info	{"method": "POST", "content-type": "application/json"}
+[server]2024-12-27 18:03:19.220	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:495	Raw request body	{"body": "{\n    \"symbol\": \"AMZN\",\n    \"type\": 0\n}"}
+[server]2024-12-27 18:03:19.220	info	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:527	ValidateSymbol request	{"symbol": "AMZN", "type": 0}
+[server]2024-12-27 18:03:19.220	info	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:1434	Validating symbol	{"url": "https://api.polygon.io/v3/reference/tickers/AMZN?apiKey=2CvL70RAtR78f1B81odD8g0vjDzIWEVl", "originalSymbol": "AMZN", "tickerForAPI": "AMZN"}
+[server]2024-12-27 18:03:42.832	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-12-27 18:03:43.499	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-12-27 18:03:43.946	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-12-27 18:03:47.631	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:110	router register success
+[server]2024-12-27 18:03:47.631	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-12-27 18:05:53.735	info	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:1434	Validating symbol	{"url": "https://api.polygon.io/v3/reference/tickers/AMZN?apiKey=2CvL70RAtR78f1B81odD8g0vjDzIWEVl", "originalSymbol": "AMZN", "tickerForAPI": "AMZN"}

@@ -1,0 +1,25 @@
+[server]2024-11-17 15:31:45.529	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal): Active closure of the user"}
+[server]2024-11-17 15:31:57.946	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal): Active closure of the user"}
+[server]2024-11-17 15:33:49.111	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal): Active closure of the user"}
+[server]2024-11-17 15:36:30.477	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal): Active closure of the user"}
+[server]2024-11-17 15:36:30.478	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 15:48:47.939	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 16:48:45.447	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal): Active closure of the user"}
+[server]2024-11-17 17:19:05.543	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 17:31:40.337	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 17:49:55.111	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal)"}
+[server]2024-11-17 17:51:43.284	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 17:54:05.876	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal)"}
+[server]2024-11-17 18:12:34.278	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal)"}
+[server]2024-11-17 18:12:34.283	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 18:14:55.479	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:157	WebSocket read error:	{"error": "websocket: close 1000 (normal)"}
+[server]2024-11-17 18:15:57.823	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 18:18:51.915	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-17 22:09:19.292	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:09:19.436	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:09:20.958	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:09:24.351	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:09:24.761	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:09:31.688	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:10:52.906	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/system/sys_api.go:41	创建失败!	{"error": "存在相同api"}
+[server]2024-11-17 22:11:48.813	[31merror[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

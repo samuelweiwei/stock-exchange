@@ -1,0 +1,125 @@
+autocode:
+  web: web/src
+  root: /Users/sefon/code/gin-vue-admin
+  server: server
+  module: github.com/flipped-aurora/gin-vue-admin/server
+  ai-path: ""
+aws-s3:
+  bucket: gp-test-storage
+  region: ap-southeast-1
+  endpoint: ""
+  secret-id: AKIA24MRORGP2LODK7A5
+  secret-key: 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
+  base-url: https://gp-test-storage.s3.ap-southeast-1.amazonaws.com
+  path-prefix: stock
+  s3-force-path-style: false
+  disable-ssl: false
+captcha:
+  key-long: 6
+  img-width: 240
+  img-height: 80
+  open-captcha: 0
+  open-captcha-timeout: 3600
+cloudflare-r2:
+  bucket: xxxx0bucket
+  base-url: https://gin.vue.admin.com
+  path: uploads
+  account-id: xxx_account_id
+  access-key-id: xxx_key_id
+  secret-access-key: xxx_secret_key
+cors:
+  mode: strict-whitelist
+  whitelist:
+    - allow-origin: example1.com
+      allow-methods: POST, GET
+      allow-headers: Content-Type,AccessToken,X-CSRF-Token, Authorization, Token,X-Token,X-User-Id
+      expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+      allow-credentials: true
+    - allow-origin: example2.com
+      allow-methods: GET, POST
+      allow-headers: content-type
+      expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+      allow-credentials: true
+db-list:
+disk-list:
+  - mount-point: /
+excel:
+  dir: ./resource/excel/
+jwt:
+  signing-key: 1391c39a-3da7-4954-be86-03bb9a94d733
+  expires-time: 7d
+  buffer-time: 1d
+  issuer: qmPlus
+jwt-user:
+  signing-key: 1391c39a-3da7-4954-be86-03bb9a943333
+  expires-time: 7d
+  buffer-time: 1d
+  issuer: qmPlus
+local:
+  path: uploads/file
+  store-path: uploads/file
+mysql:
+  prefix: ""
+  port: "3306"
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: stock_exchange
+  username: stock_exchange
+  password: ByWciNxWFxKimzcA
+  path: 13.228.162.70
+  engine: ""
+  log-mode: info
+  max-idle-conns: 10
+  max-open-conns: 100
+  singular: false
+  log-zap: false
+redis:
+  name: ""
+  addr: 127.0.0.1:6379
+  password: ""
+  db: 0
+redis-list:
+  - name: cache
+    addr: 127.0.0.1:6379
+    password: ""
+    db: 0
+system:
+  db-type: mysql
+  oss-type: aws-s3
+  router-prefix: ""
+  addr: 8888
+  iplimit-count: 15000
+  iplimit-time: 3600
+  use-multipoint: false
+  use-redis: true
+  use-mongo: false
+  use-strict-auth: false
+  use-task: false
+  use-ws: true
+zap:
+  level: debug
+  prefix: '[server]'
+  format: console
+  director: log
+  encode-level: LowercaseColorLevelEncoderw
+  stacktrace-key: stacktrace
+  show-line: true
+  log-in-console: true
+  retention-day: -1
+thirdpay:
+  aawalletpay: https://aawalletpay.com
+  aawalletwithdraw: https://aawalletpay.com
+  syncjumpurl: http://13.228.162.70/#/pages/my-balance/index
+  asynnoticeurl: http://13.228.162.70/rechargeRecords/paynotify
+  asynnoticeurlwithdraw: http://13.228.162.70/withdrawRecords/withdrawNotify
+  payrouter: /api/v1/order/create
+  withdrawrouter: /api/v1/withdrawal/create
+  accessuserid: 346219203490001
+  secret: 9btZaumBKUxDnHEytDWPGT6jNnC2hNuU
+eodhd:
+  api-key: "671e122d022e89.91563716"  # 您的 EODHD API Key
+  base-url: "https://eodhd.com/api/v1"  # EODHD API 的基础 URL
+polygon:
+  api-key: "t4J5sbVe4pJqhuM4N9k8TyMtdrVM5OnZ"
+  base-url: "https://api.polygon.io"
+service:
+  symbol: "http://13.228.162.70"

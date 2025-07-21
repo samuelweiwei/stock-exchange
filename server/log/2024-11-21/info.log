@@ -1,0 +1,20 @@
+[server]2024-11-21 10:23:26.702	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-21 10:23:26.714	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-21 10:23:26.785	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-21 10:23:29.130	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-21 10:23:29.130	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-21 10:23:31.655	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:51	Starting WebSocket initialization...
+[server]2024-11-21 10:23:31.810	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:94	WebSocket initialization completed
+[server]2024-11-21 10:23:47.078	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:170	原始查询参数	{"raw_query": "page=1&pageSize=10"}
+[server]2024-11-21 10:23:47.078	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:183	绑定后的参数	{"pageInfo": {"orderBy":"","order":"","page":1,"pageSize":10}}
+[server]2024-11-21 10:23:47.079	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:399	查询参数	{"orderBy": "", "order": "", "page": 1, "pageSize": 10}
+[server]2024-11-21 22:28:28.343	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-21 22:28:28.359	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-21 22:28:28.431	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-21 22:28:30.235	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-21 22:28:30.236	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-21 22:28:33.286	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:51	Starting WebSocket initialization...
+[server]2024-11-21 22:28:33.357	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:94	WebSocket initialization completed
+[server]2024-11-21 22:28:58.810	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:170	原始查询参数	{"raw_query": "page=1&pageSize=10"}
+[server]2024-11-21 22:28:58.811	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/api/v1/symbol/symbols.go:183	绑定后的参数	{"pageInfo": {"orderBy":"","order":"","page":1,"pageSize":10}}
+[server]2024-11-21 22:28:58.811	[34minfo[0m	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:399	查询参数	{"orderBy": "", "order": "", "page": 1, "pageSize": 10}

@@ -1,0 +1,2 @@
+[server]2024-12-05 14:10:37.809	error	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:31	redis connect ping failed, err:	{"name": "", "error": "dial tcp 127.0.0.1:6379: connect: connection refused"}
+[server]2024-12-05 14:24:02.905	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

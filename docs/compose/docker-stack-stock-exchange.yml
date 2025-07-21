@@ -1,0 +1,64 @@
+version: '3.9'
+
+services:
+    stock-exchange-api: #api服务
+        image: stock-exchange-server:latest
+        ports:
+            - "8888:8888"
+        environment:
+            - MYSQL_PATH=mysql  #mysql地址
+            - MYSQL_DB-NAME=stock_exchange #mysql数据名
+            - MYSQL_USERNAME=stock_exchange  #mysql用户名
+            - MYSQL_PASSWORD=FFNGjPrFStZ566Q5pcdu #mysql密码
+            - REDIS_ADDR=redis:6379 #redis地址
+            - REDIS_PASSWORD=Wr5EEcsuRcG4rAAQkRHV #redis密码
+            - SYSTEM_USE-TASK=false
+            - SYSTEM_USE-WS=false
+        deploy:
+            replicas: 1 #实例数
+            restart_policy:
+              condition: on-failure
+        depends_on:
+          - mysql
+          - redis
+    stock-exchange-task: #定时任务
+        image: stock-exchange-server:latest
+        environment:
+            - MYSQL_PATH=mysql
+            - MYSQL_DB-NAME=stock_exchange
+            - MYSQL_USERNAME=stock_exchange
+            - MYSQL_PASSWORD=FFNGjPrFStZ566Q5pcdu
+            - REDIS_ADDR=redis:6379
+            - REDIS_PASSWORD=Wr5EEcsuRcG4rAAQkRHV
+            - SYSTEM_USE-TASK=true
+            - SYSTEM_USE-WS=true
+        deploy:
+            replicas: 1
+            restart_policy:
+              condition: on-failure
+        depends_on:
+          - mysql
+          - redis
+    mysql: #可选项不一定用docker部署
+      image: mysql:8.0
+      deploy:
+        restart_policy:
+          condition: on-failure
+      ports: 
+        - "3306:3306"
+      environment:
+        MYSQL_ROOT_PASSWORD: dTTVvFBSSbDaEckrmJSj
+      volumes:
+        - /data/mysql/data:/var/lib/mysql
+        - /data/mysql/init:/docker-entrypoint-initdb.d
+    redis:  #可选项不一定用docker部署
+      image: redis:latest
+      deploy:
+        restart_policy:
+          condition: on-failure
+      volumes:
+         - /data/redis/data:/data
+         - /data/redis/redis.conf:/usr/local/etc/redis/redis.conf
+         - /data/redis/logs:/logs
+      command: redis-server /usr/local/etc/redis/redis.conf
+

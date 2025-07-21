@@ -1,0 +1,23 @@
+[server]2024-11-25 03:37:31.554	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-25 03:37:31.566	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-25 03:37:31.926	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-25 03:37:43.117	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-25 03:37:43.117	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-25 03:37:53.408	info	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-25 03:37:53.768	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:94	WebSocket initialization completed
+[server]2024-11-25 03:38:46.508	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:39:47.751	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:40:46.523	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:42:08.188	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "", "pong": "PONG"}
+[server]2024-11-25 03:42:08.195	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/redis.go:35	redis connect ping response:	{"name": "cache", "pong": "PONG"}
+[server]2024-11-25 03:42:08.555	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:60	register swagger handler
+[server]2024-11-25 03:42:18.335	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/router.go:109	router register success
+[server]2024-11-25 03:42:18.335	info	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[server]2024-11-25 03:42:29.986	info	/Users/huangyi/GolandProjects/stock-exchange/server/main.go:53	Starting WebSocket initialization...
+[server]2024-11-25 03:42:30.348	info	/Users/huangyi/GolandProjects/stock-exchange/server/initialize/websocket.go:94	WebSocket initialization completed
+[server]2024-11-25 03:43:23.316	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:44:26.351	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:45:23.388	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:46:24.028	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:47:23.891	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}
+[server]2024-11-25 03:48:23.314	info	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:208	完成K线数据更新	{"batch": 0, "start": 0, "end": 7, "total_symbols": 7}

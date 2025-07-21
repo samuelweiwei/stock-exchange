@@ -1,0 +1,4 @@
+[server]2024-11-25 03:38:43.776	error	/Users/huangyi/GolandProjects/stock-exchange/server/task/symbolsKline.go:126	请求K线数据失败	{"error": "Get \"https://api.polygon.io/v2/aggs/ticker/C:EURUSD,C:EURCNY/range/1/week/1729798723201/1732477123201?apiKey=9r03QW42EDKNVxcK2DEQYw2Sp7OVbAHy&limit=50000\": unexpected EOF"}
+[server]2024-11-25 03:41:33.873	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[server]2024-11-25 03:48:51.600	error	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:326	read message error:	{"error": "websocket: close 1000 (normal)"}
+[server]2024-11-25 03:48:59.219	error	/Users/huangyi/GolandProjects/stock-exchange/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection

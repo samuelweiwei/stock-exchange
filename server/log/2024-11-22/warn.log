@@ -1,0 +1,1 @@
+[server]2024-11-22 02:02:14.514	warn	/Users/huangyi/GolandProjects/stock-exchange/server/service/symbol/symbols.go:848	No kline data found	{"symbol": "AAPL", "interval": "15m", "startTime": "[server]2024-01-01 08:00:00.000", "endTime": "[server]2024-01-02 08:00:00.000"}
